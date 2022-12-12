@@ -127,7 +127,13 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Kulikova.cpp" />
     <ClCompile Include="uts-m-2022.cpp" />
+    <ClCompile Include="VA.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Kulikova.h" />
+    <ClInclude Include="VA.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
