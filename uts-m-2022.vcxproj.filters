@@ -18,5 +18,13 @@
     <ClCompile Include="uts-m-2022.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="VA.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="VA.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

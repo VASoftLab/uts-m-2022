@@ -128,6 +128,10 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="uts-m-2022.cpp" />
+    <ClCompile Include="VA.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="VA.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
