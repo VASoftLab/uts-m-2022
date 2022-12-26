@@ -21,9 +21,15 @@
     <ClCompile Include="VA.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Mavrin_II.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="VA.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Mavrin_II.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
