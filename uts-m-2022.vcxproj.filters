@@ -22,6 +22,7 @@
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="Mavrin_II.cpp">
+    <ClCompile Include="Kulikova.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
@@ -30,6 +31,7 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="Mavrin_II.h">
+    <ClInclude Include="Kulikova.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

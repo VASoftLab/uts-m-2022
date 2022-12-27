@@ -1,6 +1,7 @@
 #include <iostream>
 #include "VA.h"
 #include "Mavrin_II.h"
+#include "Kulikova.h"
 
 int main()
 {
@@ -12,4 +13,7 @@ int main()
     std::cout << "Hello I'm Alex Mavrin! Write a number\n";
     std::cin >> a;
     std::cout << getMavrin(a) << std::endl;
+
+    std::cout << "y = " << getKulikova() << std::endl;
+
 }
